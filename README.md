@@ -255,7 +255,6 @@ source=0
 
 # Demonstration
 
-Project demo:
 ```
 yolo_result.png
 ```
