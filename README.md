@@ -53,7 +53,6 @@ ROS2-YOLO-Object-Detection/
 ├── msg/
 ├── docs/
 ├── assets/
-├── dataset/
 ├── models/
 ├── scripts/
 ├── examples/
@@ -218,26 +217,6 @@ ROS Publisher
 
 ---
 
-# Dataset Structure
-
-```text
-dataset/
-
-├── images/
-│   ├── train/
-│   ├── val/
-│   └── test/
-│
-├── labels/
-│   ├── train/
-│   ├── val/
-│   └── test/
-│
-└── data.yaml
-```
-
----
-
 # Model Training
 
 ```bash
@@ -277,19 +256,8 @@ source=0
 # Demonstration
 
 Project demo:
-
 ```
-assets/demo.gif
-```
-
-Detection results:
-
-```
-screenshots/result1.png
-
-screenshots/result2.png
-
-screenshots/result3.png
+yolo_result.png
 ```
 
 ---
