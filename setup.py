@@ -29,7 +29,7 @@ setup(
     ],
     install_requires=["setuptools"],
     zip_safe=True,
-    maintainer="hyx10_10",
+    maintainer="hyx10-10",
     maintainer_email="1822108575@qq.com",
     description="ROS2 Humble object detection package based on YOLOv8 and OpenCV.",
     license="MIT",

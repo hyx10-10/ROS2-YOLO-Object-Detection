@@ -7,7 +7,7 @@
     ROS2 Humble object detection package based on YOLOv8 and OpenCV.
   </description>
 
-<maintainer email="1822108575@qq.com">hyx10_10</maintainer>
+<maintainer email="1822108575@qq.com">hyx10-10</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_python</buildtool_depend>

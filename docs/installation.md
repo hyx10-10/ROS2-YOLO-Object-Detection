@@ -12,7 +12,7 @@
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/hyx10_10/ROS2-YOLO-Object-Detection.git
+git clone https://github.com/hyx10-10/ROS2-YOLO-Object-Detection.git
 ```
 
 ```bash
