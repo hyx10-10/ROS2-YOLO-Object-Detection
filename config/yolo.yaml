@@ -1,0 +1,17 @@
+# YOLO Model Configuration
+
+model_path: "models/yolov8n.pt"
+
+confidence_threshold: 0.5
+
+iou_threshold: 0.45
+
+device: "cpu"
+
+image_size: 640
+
+publish_image: true
+
+draw_label: true
+
+draw_confidence: true

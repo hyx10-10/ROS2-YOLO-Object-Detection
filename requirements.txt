@@ -1,0 +1,17 @@
+# Deep Learning
+ultralytics>=8.2.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Numerical Computing
+numpy<2.0
+
+# ROS2 Image Processing
+cv_bridge
+
+# Image Message Definition
+sensor_msgs
+
+# Python ROS2 Client Library
+rclpy

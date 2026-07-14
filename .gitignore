@@ -1,0 +1,111 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Type checker cache
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# =========================
+# ROS2
+# =========================
+build/
+install/
+log/
+
+# Colcon
+.colcon/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+*.code-workspace
+
+# =========================
+# Operating System
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# =========================
+# YOLO
+# =========================
+runs/
+
+# Model files (not uploaded)
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+*.trt
+
+# =========================
+# Dataset
+# =========================
+dataset/images/
+dataset/labels/
+
+# Keep the dataset directory
+!dataset/README.md
+!dataset/sample.jpg
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Cache
+# =========================
+.cache/
+.pycache/
+
+# =========================
+# Generated Results
+# =========================
+output/
+results/
+
+# =========================
+# Screenshots (optional)
+# =========================
+# screenshots/
